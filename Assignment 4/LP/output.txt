@@ -1,0 +1,27 @@
+1 0.25 0 0.025 -0.00833333 
+0 -0.3 1 -0.05 0.05 
+| 0.00175
+| 0.0015
+0 12 0 3 2 | -0.66
+Solution for the first problem:
+Max Z = -0.66
+x1 = 0.00175
+x2 = 0.0015
+Running time: 1 microseconds
+
+0 0 1 0.2 -0.8 0 0.2 
+0 1 0 0.6 2.6 0 -1.4 
+0 0 0 -0.8 0.2 1 0.2 
+1 0 0 -0.4 -0.4 0 0.6 
+| 1.6
+| 20.8
+| 2.6
+| 1.8
+0 0 0 1 6 0 1 | -268
+Solution for the second problem:
+Max Z = -268
+x1 = 1.6
+x2 = 20.8
+x3 = 2.6
+x4 = 1.8
+Running time: 2 microseconds

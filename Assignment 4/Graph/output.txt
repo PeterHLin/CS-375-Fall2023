@@ -1,0 +1,2 @@
+Minimum number of semesters required: 5
+Time: 18 ms
